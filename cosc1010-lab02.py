@@ -4,10 +4,6 @@
 # Lab 02 
 # Lab Section: 12
 # Sources, people worked with, help given to: N/A
-# your
-# comments
-# here
-
 
 ## Section ONE
 
@@ -37,9 +33,6 @@ print(f"x * y = {varX * varY}")
 print(f"x / y = {varX / varY}")
 
 # String concatenation 
-    # Finally we will take a look at string concatenation
-    # String concatenation combines two strings together
-    # It is done using the + operator
     # Create three variables:
         first_name = "Talon"
         last_name = "Bluemel"
